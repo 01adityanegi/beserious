@@ -130,14 +130,8 @@ The exact email workflow depends on the service configured in the project. A fro
 BeSerious/
 │
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   └── products/
-├── assets/
-│   └── icons/
+├── style.css
+└── script.js
 └── README.md
 ```
 
