@@ -1,11 +1,5 @@
-/* ══════════════════════════════════════════════════════════
-   BE SERIOUS — E-Commerce Engine
-   Cart, Checkout, Router, Search, Email via Google Apps Script
-   ══════════════════════════════════════════════════════════ */
 
-// ─── GOOGLE APPS SCRIPT URL ─────────────────────────────
-// Deploy the Google Apps Script and paste the URL here:
-const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwK7D47PNwP1WwRjCk_k2cdqkcYT8_3mQbmRMipjJ6KHgg3sHxbJ6Rv9MIPX01zU1gD/exec';
+
 
 // ─── PRODUCT CATALOG ────────────────────────────────────
 const PRODUCTS = [
